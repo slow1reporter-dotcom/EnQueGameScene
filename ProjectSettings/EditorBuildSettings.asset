@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Home Scene.unity
+    guid: b133714010657f14f9b80f1e7c48b8dd
+  - enabled: 0
+    path: Assets/Scenes/Study Select Scene.unity
+    guid: 0e0b1b18a632916498d9d27c715643fb
+  - enabled: 1
+    path: Assets/Scenes/Training Select Scene.unity
+    guid: 292f6f25ef317034f8f3f0a8b9a5ad02
+  - enabled: 1
+    path: Assets/Scenes/Gacha Scene.unity
+    guid: 618f672dbcd4b1340a7e6d6ff62ca77e
+  - enabled: 1
+    path: Assets/Scenes/Bachi Scene.unity
+    guid: b4ce1a35b2855a941a549e08517b4a80
+  - enabled: 1
+    path: Assets/Scenes/Composition Scene.unity
+    guid: 0ad46870846830e4d8cacb2c41e799cf
+  - enabled: 1
+    path: Assets/Scenes/Friend Scene.unity
+    guid: 9f18aab096042204386829a5b2ef2395
+  - enabled: 1
+    path: Assets/Scenes/Mail Scene.unity
+    guid: 06ecdccb5e6c5ce4799cf78e38fd132b
+  - enabled: 1
+    path: Assets/Scenes/Mission Scene.unity
+    guid: 2a5682f8c6088bc46a7f0a354a9a351c
+  - enabled: 0
+    path: Assets/Scenes/One`s Belongings Scene.unity
+    guid: bae2cde1cb0f76742adb8da2cca42b2b
+  - enabled: 1
+    path: Assets/Scenes/Other Scene.unity
+    guid: 01ced7e908b952642ba8fd43f4dbf2bc
+  - enabled: 1
+    path: Assets/Scenes/Present Scene.unity
+    guid: c3802c03648b21d43bda5eb61ed6a240
+  - enabled: 1
+    path: Assets/Scenes/Purchase Scene.unity
+    guid: 2085c0503d75f2c4e857532570035576
+  - enabled: 1
+    path: Assets/Scenes/Record Scene.unity
+    guid: 40cc77328b791ee48960f8b082bc127a
+  - enabled: 1
+    path: Assets/Scenes/Special training Scene.unity
+    guid: dce13708b05e5ba429b1b4d96ec12bb0
+  - enabled: 1
+    path: Assets/Scenes/Temple Scene.unity
+    guid: ce41816fa1f658244a12a3da79ada02a
+  - enabled: 1
+    path: Assets/Scenes/Trade Scene.unity
+    guid: 3a95d18beb6563b4792e41bb4c69f256
+  - enabled: 1
+    path: Assets/Scenes/Training Scene.unity
+    guid: 1ff180e401534d94693ac923f6dc47d7
+  - enabled: 1
+    path: Assets/Scenes/Preparation Scene.unity
+    guid: 9372df44b174c674898983a9ac18f931
+  - enabled: 1
+    path: Assets/Scenes/Preparation Select Scene.unity
+    guid: 845bed80a91ab364b8b01301b8697aa8
+  - enabled: 1
+    path: Assets/Scenes/Review Select Scene.unity
+    guid: a65d2cb1bf798b74eaddab219b61b5a8
+  - enabled: 1
+    path: "Assets/Scenes/Study Select \u540D\u8A5E Scene.unity"
+    guid: 9535d760ebd53fb4588933482004ef5a
+  - enabled: 1
+    path: Assets/Scenes/Gacha Scene 1.unity
+    guid: 4e3c9a965f24a594aade7cd7dc417639
+  - enabled: 1
+    path: Assets/Scenes/Gacha Scene 2.unity
+    guid: f4a65a5d7528ca7429d17572e11ae25b
+  - enabled: 1
+    path: Assets/Scenes/Training Select Scene 1.unity
+    guid: bc1e181e8b6f0aa43b5b514e78d44763
+  - enabled: 1
+    path: Assets/Scenes/Study Select.unity
+    guid: df1f57b0eaee4ea42b9ba38b63ed4a48
+  - enabled: 1
+    path: "Assets/Scenes/Study Select \u540D\u8A5E Scene 1.unity"
+    guid: 10687a7ecc308bd42a35f7a25f77f627
+  - enabled: 1
+    path: "Assets/Scenes/Study Select \u540D\u8A5E Scene 2.unity"
+    guid: a6b4f922f4b82eb47b460c8e8048577c
+  - enabled: 1
+    path: "Assets/Scenes/\u6301\u3061\u7269 Scene.unity"
+    guid: d49cc1cb699e64442a644260e128a04c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

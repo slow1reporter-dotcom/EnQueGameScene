@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8196f4e81b709ec4f930d8450253aa58, type: 3}
+  m_Name: NewWordData 1
+  m_EditorClassIdentifier: 
+  englishWord: english
+  correctMeaning: "\u3048\u3044\u3054"
+  wrongMeaning1: "\u3053\u304F\u3054"
+  wrongMeaning2: "\u3059\u3046\u304C\u304F"
+  spawnWeight: 1
+  partOfSpeech: 0
+  element: 0
+  effect: {fileID: 0}
+  wordImage: {fileID: 0}

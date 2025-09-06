@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd95fd526fbaddd4e96feb1b5b051f7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326043
+  packageName: Human Spellcasting Animations FREE
+  packageVersion: 1.0
+  assetPath: "Assets/Kevin Iglesias/\u6B69\u304F\u30A2\u30CB\u30E1\u30FC\u30B7\u30E7\u30F3/Scripts/SpineProxy.cs"
+  uploadId: 771492
