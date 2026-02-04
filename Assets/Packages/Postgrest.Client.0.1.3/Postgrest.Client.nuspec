@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Postgrest.Client</id>
+    <version>0.1.3</version>
+    <title>Postgrest.Client</title>
+    <authors>Jett Durham</authors>
+    <owners>Jett Durham</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/thejettdurham/postgrest-sharp-client</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/thejettdurham/postgrest-sharp-client/master/nuget-icon.png</iconUrl>
+    <description>An extensible base for implementing clients to PostgREST REST API servers.</description>
+    <releaseNotes>Fixed missing headers on update requests</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>postgrest postgres postgresql rest client</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="RestSharp" version="105.2.3" />
+    </dependencies>
+  </metadata>
+</package>
